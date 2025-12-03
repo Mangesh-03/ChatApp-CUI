@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////////////
+// File name :       ChatServer.java
+// Discription :     It is Server CUI for communication
+// Author :          Mangesh Ashok Bedre
+// Date :            26/11/2025
+//
+//////////////////////////////////////////////////////////////////////
 import java.io.*;
 import java.net.*;
 import java.text.SimpleDateFormat;
